@@ -1,0 +1,72 @@
+
+
+@media only screen and (max-width: 600px) {
+
+}
+
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+}
+
+@media only screen and (min-width: 1025px) {
+}
+
+.image-class {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.body-class {
+    background-color: #e6f7ff; 
+}
+
+
+.header-class {
+    background-color: #333; 
+    color: white; 
+}
+
+
+.nav-class {
+    background-color: #666; 
+    color: white; 
+}
+.nav-class .active {
+    font-weight: bold; 
+
+}
+
+.title-class {
+    color: #009688; 
+}
+.section-title-class {
+    color: #f44336; 
+}
+
+
+.text-class {
+    color: #333; 
+}
+
+
+.image-class {
+    border: 2px solid #009688; 
+}
+
+
+.form-class input[type="text"],
+.form-class input[type="email"] {
+    background-color: #f5f5f5; 
+    color: #333; 
+}
+.button-class {
+    background-color: #009688; 
+    color: white; 
+}
+
+
+.footer-class {
+    background-color: #333; 
+    color: white; 
+}
+
